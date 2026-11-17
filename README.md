@@ -8,10 +8,6 @@ I'm a final-year B.Tech IT student (VIT, 2026) who builds backend systems and sh
 
 Currently looking for **Backend Developer / Software Developer** roles and internships — onsite, remote, or hybrid, I'm flexible.
 
----
-![snake](https://raw.githubusercontent.com/Yogith96/Yogith96/output/github-contribution-grid-snake.svg)
-
----
 ### 🔧 What I work with
 
 ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode) ![AWS](https://skillicons.dev/icons?i=aws)
