@@ -12,7 +12,7 @@ Currently looking for **Backend Developer / Software Developer** roles and inter
 
 ### 🔧 What I work with
 
-![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode) ![AWS](https://skillicons.dev/icons?i=aws)
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode) ![AWS](https://skillicons.dev/icons?i=aws)
 
 ---
 
