@@ -9,11 +9,6 @@ I'm a final-year B.Tech IT student (VIT, 2026) who builds backend systems and sh
 Currently looking for **Backend Developer / Software Developer** roles and internships — onsite, remote, or hybrid, I'm flexible.
 
 ---
-![trophies](https://github-profile-trophy.vercel.app/?username=Yogith96&theme=tokyonight&no-frame=true&row=1&column=6) 
-
----
-
----
 ![snake](https://raw.githubusercontent.com/Yogith96/Yogith96/output/github-contribution-grid-snake.svg)
 
 ---
